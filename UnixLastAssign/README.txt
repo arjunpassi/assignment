@@ -1,0 +1,17 @@
+Why is this assignment relevent to an Intro to Unix course?
+
+This assignment makes use of some c++ programming. I think this will get the students familiar to 
+pointers in C++. This assignment also makes use of the ASCII table. The code could be implemented without 
+using the ASCII table. But using the ASCII table makes the program simpler and shorter. This reflects the UNIX
+design process of keeping things simpler and modular.
+
+How should points be distributed for this assignment, i.e. what percentage should go to syntax, style, functionality, content, etc. If the solution fails to work at all (fails to compile, or fails to run) how should it be evaluated?
+
+Functionality: 50%
+Style: 20%
+Content: 20%
+Syntax: 10%
+
+If the program fails to compile then there could be a syntax error somewhere or something else. In that case, if the instructor
+can follow through the code and the code seems to function according to the spec then I think that shouldnt be too many points
+off. 
